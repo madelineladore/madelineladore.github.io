@@ -50,7 +50,7 @@ Service
 
 |period|institution|description|
 |---|---|-----|
-|2025-present|Young Africanist's Research Network|Founding member|
+|2025-present|Young Africanist's Research Network (YARN)|Founding member|
 |2024-present|Georg-August Universität Göttingen; RTG 2636: Form-meaning mismatches|PhD student representative| 
 
 ||
