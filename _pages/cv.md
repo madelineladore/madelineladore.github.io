@@ -40,9 +40,9 @@ Fieldwork
 
 |language|period|location|
 |---|---|-----|
-|Asante Twi|2024|Greater Accra Region, Ghana|
 |Logba & Avatime|2025|Volta Region, Ghana|
-|Western Armenian as a heritage Langauge|2019, 2023, 2025|Ottawa, Canada; Remote; Paris, France|
+|Asante Twi|2024|Greater Accra Region, Ghana|
+|Western Armenian as a heritage langauge|2019, 2023, 2025|Ottawa, Canada; Remote; Paris, France|
 
 
 Service
