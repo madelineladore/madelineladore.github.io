@@ -7,3 +7,6 @@ title: Home
 ---
 
 Hello World!
+<p style="text-align: left;">
+  <img src="/assets/images/my-photo.jpg" alt="My photo" width="300">
+</p>
