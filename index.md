@@ -3,7 +3,7 @@
 # Edit whiteglass' home layout instead if you want to make some changes.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: home
+title: Home
 ---
 
 Hello World!
