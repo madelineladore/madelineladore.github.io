@@ -2,6 +2,8 @@
 # pages in order as they should show up.
 
 main:
+  - title: Home
+    url: /
   - title: "Research"
     url: /research/
   - title: "Fieldwork"
