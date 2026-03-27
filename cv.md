@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-# EDUCATION
+# Education
 ## Academic Qualifications
 
 **2024-Present**  
@@ -44,7 +44,7 @@ University of Waikato, Department of General and Applied Linguistics
 			Semester abroad  
 
 
-# POSITIIONS HELD
+# Positions held
 **2024-Present**  
 Georg-August Universität Göttingen, RTG 2636: Form-meaning mismatches  
 			Wissenschaftliche Mitarbeiterin  
@@ -66,7 +66,7 @@ University of Ottawa, Academic Writing Help Centre
 			Writing Advisor  
 
 
-# ADMINISTRATIVE DUTIES
+# Administrative Duties
 **2025-present**  
 Young Africanists’ Research Network  
 			Founder, Chair  
@@ -75,7 +75,7 @@ Young Africanists’ Research Network
 Georg-August Universität Göttingen, RTG 2636: Form-meaning mismatches  
 			Student Representative  
 
-# ORGANIZATIONAL DUTIES
+# Organizational Duties
 **2026**  
 Inaugural Workshop for the Young Africanists’ Research Network  
 Organization committee member  
@@ -89,7 +89,7 @@ DFGS Summer School: Form-meaning mismatches
 			Organization committee member  
 
 
-# TEACHING
+# Teaching
 **2026**  
 University of Ghana, Department of Linguistics  
 2nd Harmattan School on Experimental Semantic Fieldwork  
