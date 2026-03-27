@@ -17,20 +17,20 @@ Ladore, M. (submitted). Mass, count, and in-between: Insights from Asante Twi. P
 
 # PRESENTATIONS
 ## Invited Presentations
-**2025**			
+**2025**  		
 University of Ghana, Semantics Seminar  
 _Mass, count and in between, insights from Asante Twi_
 
-**2024**			
+**2024**  	
 Otaru University of Commerce, Semantics Research Group  
 _An experimental investigation into Akan’s plural morphology_
 
 ## Conference Presentations 
-**2026**			
+**2026**  
 RTG 2636 x NegLab collaborative workshop, Goethe Universität Frankfurt  
 			Exploring plural morphology in Logba
 
-**2025**			
+**2025**  		
 TripleA12, Tokyo University of Foreign Studies  
 _From class to category: The development of the mass-count distinction in Asante Twi  _
 
@@ -40,7 +40,7 @@ _Understanding the mass-count distinction in Asante Twi  _
 ACAL 56, University of Minnesota  
 _The mass-count distinction in Asante Twi_
 
-**2024**			
+**2024**  		
 CALL53, Leiden University  
 _The many meaning of Akan’s plural prefix  _
 
@@ -50,6 +50,6 @@ _Plural Semantics in Akan: An Experimental Investigation  _
 TripleA11, Université de Nantes  
 _Understanding the semantics of Akan’s plural morphology: An experimental investigation _ 
 
-**2023**			
+**2023**  	
 ACAL 54, University of Connecticut  
 _The semantic properties of plurals in Akan: An experimental investigation_
