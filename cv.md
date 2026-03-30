@@ -80,7 +80,7 @@ BA/MA level
 
 # Administrative Duties
 **2025-present**  
-Young Africanists’ Research Network  
+[Young Africanists’ Research Network](https://youngafricanists.wordpress.com/)  
 			Founder, Chair  
 
 **2024-2025**  
