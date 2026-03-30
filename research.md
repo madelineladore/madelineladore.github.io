@@ -16,7 +16,7 @@ permalink: /research/
 </style>
 </head>
 <body>
-<h2>My Research Interests</h2>
+<h3>My Research Interests</h3>
  <p>
 I'm interested in the form and function of plural morphology and how it interacts with other systems in a languages grammar. In Asante Twi (Akan), the morphological singular-plural was once done by the now-defunct noun class system. I'm looking at the interaction of plural marking with the mass-count distinction and the development of these systems in connection to the former noun class system. In Ikpána (Logba), I investigate the borrowed plural marker <i>-wɔ</i> and how its integration affects verbal agreement in the syntax and definiteness in the semantics. To study these languages, I have the pleasure of fieldwork in Legon, Greater Accra Region and Logba Alakpeti, Volta Region in Ghana.
  </p>
@@ -28,7 +28,7 @@ Ladore, M. (2026). The semantics of plural morphology in Akan. _Glossa: A Journa
 Ladore, M. (submitted). Mass, count, and in-between: Insights from Asante Twi. Proceedings of   ACAL 56.	
 
 # Presentations
-## Invited Presentations
+### Invited Presentations
 **2025**  
 University of Ghana, Semantics Seminar  
 _Mass, count and in between, insights from Asante Twi_
@@ -37,7 +37,7 @@ _Mass, count and in between, insights from Asante Twi_
 Otaru University of Commerce, Semantics Research Group  
 _An experimental investigation into Akan’s plural morphology_
 
-## Conference Presentations 
+### Conference Presentations 
 **2026**  
 RTG 2636 x NegLab collaborative workshop, Goethe Universität Frankfurt  
 _Exploring plural morphology in Logba_
