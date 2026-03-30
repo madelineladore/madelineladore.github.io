@@ -4,9 +4,14 @@ title: Home
 ---
 <html>
 <head>
-p {text-align: justify;}
+
 <style>
-.spaced-para{margin-top: 1.5cm;}
+ p {
+  text-align: justify;
+}
+.spaced-para{
+  margin-top: 1.5cm;
+}
 </style>
 </head>
 <body>
