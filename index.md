@@ -43,7 +43,7 @@ When I'm not working on my dissertation, you can find me knitting, running, or o
 </p>
 <p>
  <b>Office:</b><br>
-RTG 2636: Form-meaning mismatches 
+RTG 2636: Form-meaning mismatches <br>
 Room 1.103 <br>
 Nikolausberger Weg 23, <br>
 37073 Göttingen
