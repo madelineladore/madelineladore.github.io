@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Education
-## Academic Qualifications
+### Academic Qualifications
 
 **2024-Present**  
 Georg-August Universität Göttingen, RTG 2636: Form-meaning mismatches / General Linguistics Department  
@@ -26,7 +26,7 @@ Honours Bachelor of Arts
 Major: Linguistics  
 Minor: Global Studies  
 
-## Summer Schools and Short Stays
+### Summer Schools and Short Stays
 **2024**  
 Georg-August Universität Göttingen  
 			DFGS Form-meaning mismatches summer school  
