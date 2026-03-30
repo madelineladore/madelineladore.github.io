@@ -16,9 +16,9 @@ title: Home
 </head>
 <body>
 
-<img src="/assets/images/Picture1.jpg" alt="My photo" width="170" align="left" style="margin: 10px 10px 10px 10px;">
+<img src="/assets/images/Picture1.jpg" alt="My photo" width="170" align="left" style="margin: 10px 100px 10px 10px;">
 
-<p class="spaced-para">
+<p>
 Hi there! I'm currently a PhD candidate in the <a href="https://www.uni-goettingen.de/de/635554.html">Research Training Group 2636: Form-meaning mismatches</a> at the University of Göttingen. 
 </p>
 
