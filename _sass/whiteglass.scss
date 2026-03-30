@@ -10,7 +10,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #5e2a8f !default;
+$brand-color:      #B9A702 !default;
 
 $grey-color:       #757575 !default;
 $grey-color-light: adjust-color($grey-color, $lightness: 45%) !default;
@@ -47,9 +47,9 @@ $on-laptop:        800px !default;
 ;
 
 a, a:visited {
-  color: #98c73c;
+  color: #B9A702;
 }
 
 a:hover, a:focus {
-  color: #98c73c;
+  color: #B9A702;
 }
