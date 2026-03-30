@@ -35,5 +35,17 @@ When I'm not working on my dissertation, you can find me knitting, running, or o
 </p>
 <b><i>Check out my recently published paper!</i></b>
 <p>Ladore, M. (2026). The semantics of plural morphology in Akan. <i>Glossa: A Journal of General Linguistics</i>. <a href="https://doi.org/10.16995/glossa.17580">https://doi.org/10.16995/glossa.17580</a>  </p>
+
+<h3>Contact</h3>
+<p>
+ <b>Email:</b><br> 
+ madeline.ladore [at] uni-goettingen [dot] de
+</p>
+<p>
+ <b>Office:</b><br>
+Room 1.103 <br>
+Nikolausberger Weg 23, <br>
+37073 Göttingen
+</p>
 </body>
 </html>
