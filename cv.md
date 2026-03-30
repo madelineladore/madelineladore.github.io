@@ -70,7 +70,7 @@ University of Ottawa, Academic Writing Help Centre
 **2026**  
 University of Ghana, Department of Linguistics  
 2nd Harmattan School on Experimental Semantic Fieldwork  
-Invited Lecturer; _Plurality and Quantification _ 
+Invited Lecturer; _Plurality and Quantification_ 
 
 
 **2024-2025**  
