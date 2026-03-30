@@ -3,7 +3,13 @@ layout: page
 title: Home
 ---
  
-<img src="/assets/images/Picture1.jpg" alt="My photo" width="200" align="left" style="margin: 10px 10px 10px 10px;">
+<img src="/assets/images/Picture1.jpg" alt="My photo" width="230" align="left" style="margin: 10px 10px 10px 10px;">
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi there! I'm currently a PhD candidate in the [Research Training Group 2636: Form-meaning mismatches](https://www.uni-goettingen.de/de/635554.html) at the University of Göttingen. My thesis is investigates the form and meaning of plural morphology in Asante Twi (Akan) and Ikpána (Logba) and how it interacts with other systems of grammar, including definiteness and the mass-count distinction. 
+</p>
+<p>
+I am also a founding member of the [Young Africanists' Research Network](https://youngafricanists.wordpress.com/), a network formed with the goal of fostering collaboration and shining a light on linguistic research being done on African languages by early-career scholars.
+</p>
+<p>
+When I'm not working on my dissertation, you could find me knitting, running, or on the phone with my grandma.
 </p>
