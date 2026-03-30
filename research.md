@@ -16,8 +16,10 @@ permalink: /research/
 </style>
 </head>
 <body>
-# My Research Interests
+<h2>My Research Interests</h2>
+ <p>
 I'm interested in the form and function of plural morphology and how it interacts with other systems in a languages grammar. In Asante Twi (Akan), the morphological singular-plural was once done by the now-defunct noun class system. I'm looking at the interaction of plural marking with the mass-count distinction and the development of these systems in connection to the former noun class system. In Ikpána (Logba), I investigate the borrowed plural marker <i>-wɔ</i> and how its integration affects verbal agreement in the syntax and definiteness in the semantics. To study these languages, I have the pleasure of fieldwork in Legon, Greater Accra Region and Logba Alakpeti, Volta Region in Ghana.
+ </p>
 </body>
 </html>
 
