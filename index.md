@@ -24,7 +24,9 @@ I am also a founding member of the <a href="https://youngafricanists.wordpress.c
 </p>
 
 <p>
-When I'm not working on my dissertation, you could find me knitting, running, or on the phone with my grandma.
+When I'm not working on my dissertation, you can find me knitting, running, or on the phone with my grandma.
 </p>
+<b><i>Check out my recently published paper!</i></b>
+<p>Ladore, M. (2026). The semantics of plural morphology in Akan. <i>Glossa: A Journal of General Linguistics</i>. <a href="https://doi.org/10.16995/glossa.17580">https://doi.org/10.16995/glossa.17580</a>  </p>
 </body>
 </html>
