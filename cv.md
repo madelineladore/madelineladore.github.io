@@ -31,7 +31,6 @@ Minor: Global Studies
 Georg-August Universität Göttingen  
 			DFGS Form-meaning mismatches summer school  
 
-**2024**  
 University of Education, Winneba  
 			7th African Linguistics School  
 
