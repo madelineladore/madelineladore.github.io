@@ -8,21 +8,20 @@ permalink: /cv/
 ### Academic Qualifications
 
 **2024-Present**  
-Georg-August Universität Göttingen, RTG 2636: Form-meaning mismatches / General Linguistics Department  
-PhD in Linguistics  
+_PhD in Linguistics_  
+Georg-August Universität Göttingen, RTG 2636: Form-meaning mismatches / General Linguistics Department   
 Supervisors: Prof. Dr. Hedde Zeijlstra, Prof. Dr. Stavros Skopeteas, Prof. Dr. Clemens Steiner-Meyr, Dr. Augustina Owusu  
 _Thesis: The semantics of plural morphology in Ikpána (Logba) and Asante Twi_
 			
 **2021-2024**  
-Universität Potsdam, Department of Linguistics  
-Master of Science in Linguistics  
-Program: Empirical and Theoretical Foundations  
+_Master of Science in Linguistics_  
+Universität Potsdam, Department of Linguistics; Empirical and Theoretical Foundations  
 Supervisors: Prof. Dr. Malte Zimmermann, Dr. Reginald Duah  
 _Thesis: An experimental investigation of Akan’s plural morphology_
 
 **2017-2021**  
-University of Ottawa, Department of Linguistics  
-Honours Bachelor of Arts  
+_Honours Bachelor of Arts_  
+University of Ottawa, Department of Linguistics   
 Major: Linguistics  
 Minor: Global Studies  
 
@@ -35,6 +34,10 @@ University of Education, Winneba
 			7th African Linguistics School  
 
 **2023**  
+Institut National des Langues et Civilisations Orientales (INALCO)  
+	International School in Linguistic Fieldwork (FieldLing)
+
+	
 University of Ghana, Department of Linguistics  
 			1st Harmattan School on Experimental Semantic Fieldwork  
 
