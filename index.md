@@ -23,7 +23,7 @@ Hi there! I'm currently a PhD candidate in the <a href="https://www.uni-goetting
 </p>
 
 <p>
-My thesis is investigates the form and meaning of plural morphology in Asante Twi (Akan) and Ikpána (Logba) and how it interacts with other systems of grammar, including definiteness and the mass-count distinction. 
+My thesis investigates the form and meaning of plural morphology in Asante Twi (Akan) and Ikpána (Logba) and how it interacts with other systems of grammar, including definiteness and the mass-count distinction. 
 </p>
 
 <p>
