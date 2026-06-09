@@ -42,8 +42,8 @@ _An experimental investigation into Akan’s plural morphology_
 RTG 2636 x NegLab collaborative workshop, Goethe Universität Frankfurt  
 _Exploring plural morphology in Logba_  
 
-ACAL 57, University at Buffalo
-_Agreement mismatch in Logba (Ikpána)_
+ACAL 57, University at Buffalo  
+_Agreement mismatch in Logba (Ikpána)_  
 
 **2025**  
 TripleA12, Tokyo University of Foreign Studies  
