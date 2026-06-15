@@ -9,3 +9,4 @@ if ENV["JEKYLL_VERSION"] == "< 4.0"
 end
 
 gem "jekyll-whiteglass"
+gem: jekyll-sitemap
