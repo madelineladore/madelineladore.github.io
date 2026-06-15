@@ -1,3 +1,9 @@
+
+ Hi there! I'm currently a PhD candidate in the Research Training Group 2636: Form-meaning mismatches at the University of Göttingen.
+
+My thesis investigates the form and meaning of plural morphology in Asante Twi (Akan) and Ikpána (Logba) and how it interacts with other systems of grammar, including definiteness and the mass-count distinction.
+
+I am also a founding member of the Young Africanists' Research Network, a network formed with the goal of fostering collaboration and shining a light on linguistic research being done on African languages by early-career scholars. 
 # whiteglass
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-whiteglass.svg)](https://badge.fury.io/rb/jekyll-whiteglass)
