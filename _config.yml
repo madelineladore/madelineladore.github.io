@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Madeline Ladore
 author: Madeline Ladore
-description: Madeline Ladore's research website
+description: Madeline Ladore: linguist, researcher, semanticist
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://madelineladore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
