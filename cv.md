@@ -35,6 +35,10 @@ Major: Linguistics
 Minor: Global Studies  
 
 ### Summer Schools and Short Stays
+**2026**  
+University of Crete  
+			CreteLing Summer School  
+
 **2024**  
 Georg-August Universität Göttingen  
 			DFGS Form-meaning mismatches summer school  
