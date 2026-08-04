@@ -34,6 +34,7 @@ I'm interested in the form and function of plural morphology and how it interact
 
 # Publications
 Ladore, M. (2026). The semantics of plural morphology in Akan. _Glossa: A Journal of General Linguistics_. [https://doi.org/10.16995/glossa.17580](https://doi.org/10.16995/glossa.17580)  
+
 Ladore, M. (submitted). Mass, count, and in-between: Insights from Asante Twi. Proceedings of   ACAL 56.	
 
 # Presentations
