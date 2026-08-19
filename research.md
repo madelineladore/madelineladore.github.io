@@ -17,7 +17,7 @@ permalink: /research/
 
 <style>
  p {
-  text-align: justify;
+  text-align: left;
 }
 .spaced-para{
   margin-top: 1.5cm;
