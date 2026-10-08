@@ -1,4 +1,4 @@
----
+<img width="1180" height="248" alt="image" src="https://github.com/user-attachments/assets/461b6363-863a-4e0c-aeb2-0bb02278a1be" />---
 layout: page
 title: "CV"
 permalink: /cv/
@@ -82,10 +82,23 @@ University of Ottawa, Academic Writing Help Centre
 
 
 # Teaching
+**2026-2027**
+Georg-August Universität Göttingen, General Linguistics Department  
+_Linguistic fieldwork: Eliciting data in an unfamiliar language_  
+Co-lecturer: Florian Ertz
+
+
 **2026**  
 University of Ghana, Department of Linguistics  
 2nd Harmattan School on Experimental Semantic Fieldwork  
-Invited Lecturer; _Plurality and Quantification_ 
+Invited Lecturer; _Plurality and Quantification_  
+Co-lecturer: Rebecca Jarvis
+
+
+**2026**
+Georg-August Universität Göttingen, General Linguistics Department  
+_Syntaktische Typologie: The Syntax of Agreement_  
+Guest Lecturer 23.06.2026; _Accounting for singular-conditioned syncretism in Logba (Ikpána)_  
 
 
 **2024-2025**  
