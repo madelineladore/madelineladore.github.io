@@ -82,7 +82,7 @@ University of Ottawa, Academic Writing Help Centre
 
 
 # Teaching
-**2026-2027**
+**2026-2027**  
 Georg-August Universität Göttingen, General Linguistics Department  
 _Linguistic fieldwork: Eliciting data in an unfamiliar language_  
 Co-lecturer: Florian Ertz
@@ -95,7 +95,7 @@ Invited Lecturer; _Plurality and Quantification_
 Co-lecturer: Rebecca Jarvis
 
 
-**2026**
+**2026**  
 Georg-August Universität Göttingen, General Linguistics Department  
 _Syntaktische Typologie: The Syntax of Agreement_  
 Guest Lecturer 23.06.2026; _Accounting for singular-conditioned syncretism in Logba (Ikpána)_  
